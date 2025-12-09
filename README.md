@@ -54,3 +54,8 @@ I chose Linear Search because it is a simple and easy-to-understand searching al
     - Whether the target was found or not
     - If found, the index where it appears
     - Each comparison step in order (Step 1, Step 2, etc.)
+
+## Hugging Face Link
+
+My deployed app on Hugging Face Spaces:  
+https://huggingface.co/spaces/Rayyan10/cisc121-linear-search-app
